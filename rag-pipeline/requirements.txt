@@ -1,0 +1,19 @@
+langchain
+langchain-openai
+langchain-huggingface
+langchain-community
+langchain-chroma
+chromadb
+sentence-transformers
+transformers
+fastapi
+uvicorn
+streamlit
+python-dotenv
+tiktoken
+openai
+pypdf
+pandas
+# for reranking (BGE)
+flashrank
+# or FlagEmbedding depending on usage, but flashrank is easy
